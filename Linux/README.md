@@ -22,17 +22,22 @@ By the end of this course, students should be able to:
 
 Course Schedule
 
-Lesson	Topic	Presentation	Review
 Module 1 – Lesson 1	Introduction to Linux	https://canva.link/qgkcael2rr4dufu 
+
 Module 1 – Lesson 2	Linux Fundamentals https://canva.link/f8rwzxwrpx81wo9
+
 Module 2 – Lesson 1	Linux Command Line Basics	https://canva.link/n0yk31j6lmv8ge0
+
 Module 3 – Lesson 1	Working with Linux	https://canva.link/0rc1kuy3vd2f4ac
+
 Module 4 – Lesson 1	Linux Skills and Applications	https://canva.link/wzb7gc51d3c9rx7
 
 Additional Resources
-Resource	Link
+
 Running Linux on Mac/Windows	https://docs.google.com/document/u/0/d/1HTfpssIhtjArNd1G374HW9L2urcYGhLAqXilpQMsLxQ/edit
+
 Linux Reference Sheet	Reference Sheet https://docs.google.com/document/u/0/d/1TOrHiA_WYCzVCuA8RUrAVuo6R76h6AbWHxuURT-A_ok/edit
 
 Tutor Name: Ashwath Lakshmanaswamy
+
 Maintained by CyberIQ Hub
